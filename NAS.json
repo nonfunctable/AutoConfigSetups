@@ -3,12 +3,12 @@
     "event": "JoinRoom",
     "method": "Create",
     "type": "Raid",
-    "args": [3, 1, 1, true]
+    "args": [2, 5, 3, true]
   },
   "TeleGameplay": {
     "event": "JoinRoom",
     "method": "TeleGameplay",
     "type": "Raid",
-    "args": [3, 1, 1, true]
+    "args": [3, 5, 3, true]
   }
 }
