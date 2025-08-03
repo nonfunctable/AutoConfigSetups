@@ -1,4 +1,4 @@
-# Possible Modes and Args for JoinRoom Remote (PlaceId 17850641257)
+# Possible Modes and Args for JoinRoom Remote
 
 This file lists all possible modes and their valid arguments for the JoinRoom remote in the game.
 Use this to configure the NAS.json file for the auto-execute script.
