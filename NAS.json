@@ -1,0 +1,14 @@
+{
+  "Create": {
+    "event": "JoinRoom",
+    "method": "Create",
+    "type": "Challenge",
+    "args": [1, 1, 1, false]
+  },
+  "TeleGameplay": {
+    "event": "JoinRoom",
+    "method": "TeleGameplay",
+    "type": "Challenge",
+    "args": [1, 1, 1, false]
+  }
+}
