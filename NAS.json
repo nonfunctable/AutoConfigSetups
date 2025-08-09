@@ -2,13 +2,13 @@
   "Create": {
     "event": "JoinRoom",
     "method": "Create",
-    "type": "Raid",
-    "args": [2, 5, 3, true]
+    "type": "Story",
+    "args": [7, 5, 3, true]
   },
   "TeleGameplay": {
     "event": "JoinRoom",
     "method": "TeleGameplay",
-    "type": "Raid",
-    "args": [2, 5, 3, true]
+    "type": "Story",
+    "args": [7, 5, 3, true]
   }
 }
