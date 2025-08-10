@@ -3,12 +3,12 @@
     "event": "JoinRoom",
     "method": "Create",
     "type": "Story",
-    "args": [4, 1, 1, true]
+    "args": [1, 5, 2, true]
   },
   "TeleGameplay": {
     "event": "JoinRoom",
     "method": "TeleGameplay",
     "type": "Story",
-    "args": [4, 1, 1, true]
+    "args": [1, 5, 2, true]
   }
 }
