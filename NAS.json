@@ -2,13 +2,13 @@
   "Create": {
     "event": "JoinRoom",
     "method": "Create",
-    "type": "Story",
-    "args": [1,1,1, true]
+    "type": "Tournament",
+    "args": [1,1,1,false]
   },
   "TeleGameplay": {
     "event": "JoinRoom",
     "method": "TeleGameplay",
     "type": "Tournament",
-    "args": [1,1,1, true]
+    "args": [1,1,1,false]
   }
 }
