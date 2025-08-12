@@ -8,7 +8,7 @@
   "TeleGameplay": {
     "event": "JoinRoom",
     "method": "TeleGameplay",
-    "type": "Siege",
-    "args": [1,5,3, true]
+    "type": "Story",
+    "args": [5,1,3, true]
   }
 }
