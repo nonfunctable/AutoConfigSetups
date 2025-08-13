@@ -9,6 +9,6 @@
     "event": "JoinRoom",
     "method": "TeleGameplay",
     "type": "Inf",
-    "args": [1,1,1,true]
+    "args": [7,5,3,true]
   }
 }
