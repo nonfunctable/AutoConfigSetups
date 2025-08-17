@@ -9,6 +9,6 @@
     "event": "JoinRoom",
     "method": "TeleGameplay",
     "type": "Raid",
-    "args": [1,5,3,true]
+    "args": [2,5,3,true]
   }
 }
