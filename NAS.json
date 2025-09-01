@@ -8,7 +8,7 @@
   "TeleGameplay": {
     "event": "JoinRoom",
     "method": "TeleGameplay",
-    "type": "Story",
-    "args": [1,1,1,true]
+    "type": "Raid",
+    "args": [2,1,1,true]
   }
 }
